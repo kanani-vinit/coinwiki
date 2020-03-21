@@ -21,6 +21,7 @@ Press "Remove"
 Restart Coin Master on your device and login to Facebook again. When asked to provide permissions this time, make sure you provide your friends’ list by clicking on "Edit This" and make sure there is a check-mark next to "Friends list".
 
 
-![](https://moonactive.zendesk.com/hc/article_attachments/360001410253/fb_permissions.png)
+
+<img src="https://moonactive.zendesk.com/hc/article_attachments/360001410253/fb_permissions.png" width='100%'>
 
  
