@@ -1,6 +1,6 @@
 ### How do I log in to Facebook?
 You can find the Facebook login button at the bottom of the menu which can be opened by tapping the 
-![](https://moonactive.zendesk.com/hc/article_attachments/360001411833/menu_icon.png)
+<img src="https://moonactive.zendesk.com/hc/article_attachments/360001411833/menu_icon.png" width='48'>
  icon on the top right corner of the screen.
 
 After you log in you will be presented with a screen that asks you to provide permissions. Make sure that you provide your friends’ list by clicking on "Edit This" and confirm that there is a checkmark next to "Friends list". This will ensure that you can play with your friends. 
