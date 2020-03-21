@@ -5,5 +5,4 @@ In order to unlock the Rhino, you will first need to complete the Creatures Card
 
 
 
-![](https://moonactive.zendesk.com/hc/article_attachments/360005027034/Rhino.jpeg)
-
+<img src="https://moonactive.zendesk.com/hc/article_attachments/360005027034/Rhino.jpeg" width='100%'>
