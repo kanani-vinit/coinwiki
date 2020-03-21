@@ -6,5 +6,5 @@ Each card shows a number of stars at the top that show its value, and these numb
 After a chest is traded for, a timer will appear which will lock the trade for another chest of the same type for a certain amount of time. However, this timer can be skipped a certain number of times with the use of coins. 
 Don't worry, the card trade will not decrease your game stars! 
 
-![](https://moonactive.zendesk.com/hc/article_attachments/360007685140/Cards_for_Chests.png)
+<img src="https://moonactive.zendesk.com/hc/article_attachments/360007685140/Cards_for_Chests.png" width='100%'>
 
